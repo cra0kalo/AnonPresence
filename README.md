@@ -1,2 +1,2 @@
 # AnonPresence
-Microsoft Teams's presence report blocker.
+Microsoft Teams presence report blocker.
